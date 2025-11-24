@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/383765639980783408/c57dc721f764443cb370026ff0b2a2d5/artifacts
+end_time: 1764017391078
+entry_point_name: ''
+experiment_id: '383765639980783408'
+lifecycle_stage: active
+run_id: c57dc721f764443cb370026ff0b2a2d5
+run_name: intelligent-frog-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764017390726
+status: 3
+tags: []
+user_id: mass0

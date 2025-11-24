@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/578277184187571440/9bcafcd909a74721aabf8921e107e951/artifacts
+end_time: 1764021502757
+entry_point_name: ''
+experiment_id: '578277184187571440'
+lifecycle_stage: active
+run_id: 9bcafcd909a74721aabf8921e107e951
+run_name: serious-gull-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764021490660
+status: 3
+tags: []
+user_id: mass0
